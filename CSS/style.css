@@ -1,0 +1,83 @@
+body{
+    padding: 0;
+    margin:0;
+    background-position: center;
+}
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+header{
+    background-color: rgb(154, 224, 157);
+    height: 5em;
+    
+}
+img{
+    height: 60%;
+    background-size: 100px 100px;
+    margin-top: 4px;
+}
+.head-tag{
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+.head-tag a{
+text-decoration: none;
+border: 1px solid black;
+padding: 8px;
+margin-right: 8px;
+font-family: 'Times New Roman', Times, serif;
+}
+.head.tag a:hover{
+    background-color: blue;
+    color: black;
+}
+.Sign-in form{
+    width: 300px;
+    background: rgb(58, 82, 90);
+    padding: 20px;
+    margin: 8% auto;
+    text-align: center;
+    
+}
+.Sign-up form{
+    width: 400px;
+    background: rgb(39, 238, 205);
+    padding: 30px;
+    margin: 8% auto;
+    text-align: center;
+
+}
+.container{
+    
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+.p-box{ 
+    border: 20px solid brown ;
+    width: 65%;
+    float: left;
+    margin-left: 15%;
+    height:50pm ;
+}
+.SEEK{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.d-box{
+    border:10px solid rgb(26, 145, 115);
+    width:50%;
+    float: left;
+    margin-left: 25%;
+    text-align: center;
+    
+}
+.heading{
+text-align: center;
+margin-top: 20px;
+}
